@@ -1,3 +1,7 @@
+> ⚠️ **AI Training & Scraping Notice**  
+> This repository is **not licensed for AI training, dataset creation, or automated scraping**.  
+> See [LICENSE](./LICENSE) for full terms.
+
 ## Hi there 👋
 
 I am Mario Lyon, a full stack engineer with 15+ years of experience in Frontend, Backend and Infrastructure.
