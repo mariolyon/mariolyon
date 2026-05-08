@@ -1,18 +1,19 @@
+<!--
 > ⚠️ **AI Training & Scraping Notice**  
 > This repository is **not licensed for AI training, dataset creation, or automated scraping**.  
 > See [LICENSE](./LICENSE) for full terms.
+-->
 
-## Hi there 👋
+## Hey 👋  Welcome
 
 I am Mario Lyon, a full stack engineer with 15+ years of experience in Frontend, Backend and Infrastructure.
 
 🌱 I love programming in Node and Scala, and currently learning Golang, and AI Tooling.
 
 Always happy to collaborate or chat, you can find me at:
-- email: mario AT digileo DOT com
+- email: mario @ digileo.com
 - demos: https://mariolyon.com/works
 - linkedin: https://linkedin.com/in/mariolyon
-- gh: https://github.com/mariolyon
 
 <!--
 **mariolyon/mariolyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
